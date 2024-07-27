@@ -1,5 +1,39 @@
 ## Contoso High School Library Report
 
+### Lineage View
+
+![Lineage view](https://github.com/user-attachments/assets/07d08e25-685e-4f9b-ac1e-afce187f4479)
+
+
+1. **Dataverse**:
+   - **Source**: The data originates from Dataverse, a scalable data service and app platform.
+   - **Function**: Dataverse stores and manages the data used in your Power BI reports.
+
+2. **Power BI Desktop**:
+   - **Data Import**: The data from Dataverse is imported into Power BI Desktop.
+   - **Data Transformation**: In Power BI Desktop, data is cleaned, transformed, and modeled to prepare it for analysis.
+   - **Report Creation**: Reports are created using the transformed data, incorporating various visualizations and analytics.
+
+3. **Power BI Service**:
+   - **Publishing**: The reports created in Power BI Desktop are published to the Power BI Service.
+   - **Dataset**: The dataset in the Power BI Service is linked to the reports, ensuring that any updates in the data are reflected in the reports.
+
+4. **Reports and Dashboards**:
+   - **Reports**: These are detailed, interactive views of your data, created in Power BI Desktop and published to the Power BI Service.
+   - **Dashboards**: Dashboards are collections of visuals from multiple reports, providing a high-level overview of key metrics and insights.
+
+### Visual Representation
+
+- **Icons and Arrows**: The image uses icons and arrows to represent the flow of data from Dataverse to Power BI Desktop, and then to the reports and dashboards in the Power BI Service.
+- **Connections**: Each arrow indicates a connection or data flow between components, showing how data moves through the system.
+
+### Key Points
+
+- **Data Source**: Dataverse is the primary data source.
+- **Transformation**: Data is transformed and modeled in Power BI Desktop.
+- **Publishing**: Reports are published to the Power BI Service.
+- **Visualization**: Reports and dashboards provide interactive and visual representations of the data.
+
 ### Overview
 
 This report provides a comprehensive analysis of the current loans at Contoso High School Library, detailing total loans, overdue loans, and student borrowing patterns over recent years. The data spans multiple school years and includes insights into individual student performance and trends in library usage.

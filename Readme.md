@@ -106,6 +106,3 @@ This report provides a comprehensive analysis of the current loans at Contoso Hi
 - Consider targeted programs to encourage reading among students with declining loan numbers.
 
 This report serves as a foundational tool for improving library services and enhancing student engagement with reading materials.
-
-Citations:
-[1] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/15708153/d1bbd7d1-ea5e-4931-9aac-d215c8c8022b/Contoso-High-School-Library-Report.pdf.pdf
